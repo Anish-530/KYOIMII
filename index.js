@@ -168,4 +168,4 @@ bot.on('messageUpdate', function (message, channel) {
 
 
 
-bot.login(config.token);
+bot.login(process.env.token);
