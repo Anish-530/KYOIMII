@@ -1,0 +1,8 @@
+{
+    "token": "NzkxMzg3NjU4ODE4NDIwNzY3.X-ObMQ.o-hnjU6Ftp0RNR3WM9jonGIbJwc",
+    "PREFIX": "k!",
+    "notgood": "<:notgood:776121645709525002> ",
+    "good": "<:good:776121655528783964> ",
+    "daily_cooldown": 86400000,
+    "mongoPath": "mongodb://localhost:27017"
+}
